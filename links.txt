@@ -1,0 +1,7 @@
+https://aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/
+https://www.linkedin.com/pulse/easily-compile-powershell-exe-using-built-in-tools-darryl/
+https://social.technet.microsoft.com/Forums/ie/en-US/acf70a31-ceb4-4ea5-bac1-be2b25eb5560/how-to-run-as-admin-powershellps1-file-calling-in-batch-file?forum=winserverpowershell
+https://stackoverflow.com/questions/17063947/get-current-batchfile-directory
+https://code.adonline.id.au/use-a-batch-file-to-run-your-powershell-scripts/
+https://github.com/MScholtes/PS2EXE
+https://get-cmd.com/?p=3875
